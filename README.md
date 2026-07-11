@@ -2,7 +2,7 @@
 
 ## More Physics With Matlab / By Dan Green / Python file
 
-### Chapter1 / Mathematics / 1.3 Missile Tracking
+## Chapter1 / Mathematics / 1.3 Missile Tracking
 
 Trajectory of a missile aiming on a target
 
