@@ -1,6 +1,6 @@
 # Missile-Tracking
 
-## More Pyhysics With Matlab / By Dan Green / Python file
+## More Physics With Matlab / By Dan Green / Python file
 
 Trajectory of a missile aiming on a target
 
