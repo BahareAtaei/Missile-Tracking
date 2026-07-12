@@ -19,7 +19,7 @@ This program simulates a **missile pursuit problem** where a missile tracks a mo
 The missile's trajectory is governed by a differential equation derived from the pursuit geometry:
 ```
 dy/dx = v
-dv/dx = sqrt(1+v²) / (q·(L-x))
+dv/dx = sqrt(1+v^2) / (q·(L-x))
 ```
 where `v = dy/dx` is the slope of the missile's path.
 
