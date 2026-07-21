@@ -1,8 +1,9 @@
 # Missile-Tracking
 
-## More Physics With Matlab / By Dan Green / Python file
+Python implementation inspired by the concepts presented in
+"More Physics with MATLAB" by Dan Green.
 
-## Chapter1 / Mathematics / 1.3 Missile Tracking
+This repository contains my own implementations for learning purposes.
 
 ---
 
